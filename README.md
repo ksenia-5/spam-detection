@@ -10,3 +10,6 @@ Task Details:
 2. Understand the concepts therein and the workflow.
 3. Practice the code and run on your own machines/Kaggle.
 4. Use two other machine learning algorithms (any two) to detect spam emails. 5. Measure the accuracy (classification error rate) for each algorithm.
+
+## Reference
+[1] U Buddy, [Build a machine learning email spam detector with Python](https://blog.logrocket.com/email-spam-detector-python-machine-learning/)
